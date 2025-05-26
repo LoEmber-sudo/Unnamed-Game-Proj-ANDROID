@@ -1,0 +1,82 @@
+[
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDEBUG -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D_DEBUG -D__ANDROID__ -Draymob_EXPORTS -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raymob -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -g -fno-limit-debug-info -fPIC -std=gnu++11 -o CMakeFiles\\raymob.dir\\main.cpp.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\main.cpp",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\main.cpp"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDEBUG -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D_DEBUG -D__ANDROID__ -Draymob_EXPORTS -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raymob -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fno-limit-debug-info -fPIC -std=gnu99 -o CMakeFiles\\raymob.dir\\raylib-ase.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\raylib-ase.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\raylib-ase.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDEBUG -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D_DEBUG -D__ANDROID__ -Draymob_EXPORTS -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raymob -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fno-limit-debug-info -fPIC -std=gnu99 -o CMakeFiles\\raymob.dir\\C_\\work\\android-sdk\\ndk\\26.1.10909125\\sources\\android\\native_app_glue\\android_native_app_glue.c.o -c C:\\work\\android-sdk\\ndk\\26.1.10909125\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+  "file": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\sources\\android\\native_app_glue\\android_native_app_glue.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rcore.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rcore.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rmodels.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rmodels.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rshapes.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rshapes.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rtext.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rtext.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rtextures.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\rtextures.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\raudio.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\raudio.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -mfix-cortex-a53-835769 -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raylib\\CMakeFiles\\raylib.dir\\utils.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\utils.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raylib\\utils.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\helper.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\helper.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\helper.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\sensor.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\sensor.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\sensor.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\vibrator.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\vibrator.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\vibrator.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\display.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\display.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\display.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\soft_keyboard.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\soft_keyboard.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\soft_keyboard.c"
+},
+{
+  "directory": "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+  "command": "C:\\work\\android-sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/work/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_API_OPENGL_ES3 -DPLATFORM_ANDROID -D__ANDROID__ -IC:/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue -IC:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=gnu99 -o deps\\raymob\\CMakeFiles\\raymoblib.dir\\callback.c.o -c C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\callback.c",
+  "file": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\src\\main\\cpp\\deps\\raymob\\callback.c"
+}
+]

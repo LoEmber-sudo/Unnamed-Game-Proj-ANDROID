@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "deps/raylib",
+					"jsonFile" : "directory-deps.raylib-Debug-f7c5c25f131bcb04b82a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "deps/raylib",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "deps/raymob",
+					"jsonFile" : "directory-deps.raymob-Debug-0ee0af6105d0b0524237.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "deps/raymob",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "raymob",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "raylib::@8e6642aeca8dad46aa8c",
+					"jsonFile" : "target-raylib-Debug-284d890568ff15fc81b7.json",
+					"name" : "raylib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raymob::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raymob-Debug-d1aff9a7e70d1af305a4.json",
+					"name" : "raymob",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "raymoblib::@71420b749f8138f26715",
+					"jsonFile" : "target-raymoblib-Debug-718819ea978ac9d78d26.json",
+					"name" : "raymoblib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/arm64-v8a",
+		"source" : "C:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

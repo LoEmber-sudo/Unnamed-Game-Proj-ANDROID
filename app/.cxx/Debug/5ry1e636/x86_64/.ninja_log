@@ -1,0 +1,25 @@
+# ninja log v5
+11	820	7699827603771296	CMakeFiles/raymob.dir/C_/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue/android_native_app_glue.c.o	40c54f736daf0705
+25	897	7699827605990023	CMakeFiles/raymob.dir/raylib-ase.c.o	bb3139966876a065
+35	1045	7699827607789046	deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o	c52c9fe747664b9
+1046	2643	7699827616218556	deps/raylib/CMakeFiles/raylib.dir/utils.c.o	e814be0f923a410f
+824	3176	7699827625996364	deps/raylib/CMakeFiles/raylib.dir/rtext.c.o	8839546c3e74f43c
+30	3229	7699827628395677	deps/raylib/CMakeFiles/raylib.dir/rcore.c.o	8be460b7a6381d11
+3229	3972	7699827636932860	deps/raymob/CMakeFiles/raymoblib.dir/vibrator.c.o	1da65b786b92bb9
+3177	4133	7699827637032792	deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o	650a6c89345f4208
+40	4308	7699827639981352	deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o	7d9a3aeadfc09f9d
+2	4611	7699827643169512	CMakeFiles/raymob.dir/main.cpp.o	9875c46eabb7fc88
+3973	4708	7699827644878744	deps/raymob/CMakeFiles/raymoblib.dir/display.c.o	5f91758e7a2410c4
+4323	4782	7699827645278724	deps/raymob/CMakeFiles/raymoblib.dir/callback.c.o	95829cb922af6283
+4133	5068	7699827646438057	deps/raymob/CMakeFiles/raymoblib.dir/sensor.c.o	dabff9fbadca9aff
+4620	5287	7699827651085602	deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o	6a31940b8a79d6d7
+915	7153	7699827668158982	deps/raylib/CMakeFiles/raylib.dir/raudio.c.o	9c88addcd8de9a79
+2735	8128	7699827670857440	deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o	6e1364a31ff25bfe
+8128	10776	7699827701688301	deps/raylib/libraylib.a	47802a99fe0ea103
+10776	11414	7699827710323337	deps/raymob/libraymoblib.a	912758875e569867
+11414	13098	7699827722426384	C:/Users/LoEmber/Desktop/raymob-master/app/build/intermediates/cxx/Debug/5ry1e636/obj/x86_64/libraymob.so	dfd872530b77e3d2
+21	1193	7699832034716566	deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o	6a31940b8a79d6d7
+17	1308	7699832035805939	deps/raymob/CMakeFiles/raymoblib.dir/display.c.o	5f91758e7a2410c4
+1308	2317	7699832044004992	deps/raymob/libraymoblib.a	912758875e569867
+11	4983	7699832072569455	CMakeFiles/raymob.dir/main.cpp.o	9875c46eabb7fc88
+4983	10900	7699832131612634	C:/Users/LoEmber/Desktop/raymob-master/app/build/intermediates/cxx/Debug/5ry1e636/obj/x86_64/libraymob.so	dfd872530b77e3d2

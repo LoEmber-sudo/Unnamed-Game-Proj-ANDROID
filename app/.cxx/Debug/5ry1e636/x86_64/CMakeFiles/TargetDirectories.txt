@@ -1,0 +1,9 @@
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/raymob.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/edit_cache.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/rebuild_cache.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/edit_cache.dir
+C:/Users/LoEmber/Desktop/raymob-master/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/rebuild_cache.dir
