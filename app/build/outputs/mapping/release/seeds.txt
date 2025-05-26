@@ -1,0 +1,9 @@
+com.raylib.raymob.NativeLoader
+android.support.annotation.Keep
+com.raylib.raymob.NativeLoader: boolean onKeyUp(int,android.view.KeyEvent)
+com.raylib.raymob.NativeLoader: NativeLoader()
+com.raylib.raymob.NativeLoader: void onAppResume()
+com.raylib.raymob.NativeLoader: void onAppStop()
+com.raylib.raymob.NativeLoader: void onWindowFocusChanged(boolean)
+com.raylib.raymob.NativeLoader: void onAppStart()
+com.raylib.raymob.NativeLoader: void onAppPause()

@@ -1,0 +1,6 @@
+ninja: Entering directory `C:\Users\LoEmber\Desktop\raymob-master\app\.cxx\Debug\5ry1e636\x86'
+[1/5] Building C object deps/raymob/CMakeFiles/raymoblib.dir/display.c.o
+[2/5] Building C object deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o
+[3/5] Linking C static library deps\raymob\libraymoblib.a
+[4/5] Building CXX object CMakeFiles/raymob.dir/main.cpp.o
+[5/5] Linking CXX shared library C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\cxx\Debug\5ry1e636\obj\x86\libraymob.so

@@ -1,0 +1,17 @@
+@color/ic_launcher_background : reachable=false
+@mipmap/ic_launcher : reachable=true
+    @color/ic_launcher_background
+    @mipmap/ic_launcher_foreground
+@mipmap/ic_launcher_foreground : reachable=false
+@mipmap/ic_launcher_round : reachable=true
+    @color/ic_launcher_background
+    @mipmap/ic_launcher_foreground
+@string/app_name : reachable=true
+
+The root reachable resources are:
+ mipmap:ic_launcher:2130837504
+ mipmap:ic_launcher_round:2130837506
+ string:app_name:2130903040
+Unused resources are: 
+
+Resource shrinking did not work (grew from 47735 to 47807); using original instead

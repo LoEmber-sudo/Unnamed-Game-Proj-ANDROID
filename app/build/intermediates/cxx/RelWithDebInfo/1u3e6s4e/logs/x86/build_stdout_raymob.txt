@@ -1,0 +1,25 @@
+ninja: Entering directory `C:\Users\LoEmber\Desktop\raymob-master\app\.cxx\RelWithDebInfo\1u3e6s4e\x86'
+[1/19] Building C object CMakeFiles/raymob.dir/C_/work/android-sdk/ndk/26.1.10909125/sources/android/native_app_glue/android_native_app_glue.c.o
+[2/19] Building C object CMakeFiles/raymob.dir/raylib-ase.c.o
+[3/19] Building C object deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o
+[4/19] Building C object deps/raylib/CMakeFiles/raylib.dir/utils.c.o
+[5/19] Building CXX object CMakeFiles/raymob.dir/main.cpp.o
+[6/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o
+[7/19] Building C object deps/raylib/CMakeFiles/raylib.dir/rtext.c.o
+[8/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/sensor.c.o
+[9/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/display.c.o
+[10/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/vibrator.c.o
+[11/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/callback.c.o
+[12/19] Building C object deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o
+[13/19] Building C object deps/raylib/CMakeFiles/raylib.dir/rcore.c.o
+[14/19] Building C object deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o
+[15/19] Building C object deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o
+[16/19] Building C object deps/raylib/CMakeFiles/raylib.dir/raudio.c.o
+In file included from C:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib/raudio.c:180:
+C:/Users/LoEmber/Desktop/raymob-master/app/src/main/cpp/deps/raylib/external/miniaudio.h:14841:9: warning: misaligned atomic operation may incur significant performance penalty; the expected alignment (8 bytes) exceeds the actual alignment (4 bytes) [-Watomic-alignment]
+        __atomic_compare_exchange_n(dst, &expected, desired, 0, __ATOMIC_SEQ_CST, __ATOMIC_SEQ_CST);
+        ^
+1 warning generated.
+[17/19] Linking C static library deps\raylib\libraylib.a
+[18/19] Linking C static library deps\raymob\libraymoblib.a
+[19/19] Linking CXX shared library C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\cxx\RelWithDebInfo\1u3e6s4e\obj\x86\libraymob.so

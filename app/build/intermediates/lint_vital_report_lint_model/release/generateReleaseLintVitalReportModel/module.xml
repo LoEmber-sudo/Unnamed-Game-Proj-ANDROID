@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\LoEmber\Desktop\raymob-master\app"
+    name=":app"
+    type="APP"
+    maven="raylib-game:app:unspecified"
+    agpVersion="8.5.0"
+    buildFolder="build"
+    bootClassPath="C:\work\android-sdk\platforms\android-34\android.jar;C:\work\android-sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
