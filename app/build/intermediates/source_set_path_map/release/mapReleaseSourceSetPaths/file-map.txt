@@ -1,0 +1,8 @@
+com.raylib.raymob.app-pngs-0 C:\Users\LoEmber\Desktop\raymob-master\app\build\generated\res\pngs\release
+com.raylib.raymob.app-resValues-1 C:\Users\LoEmber\Desktop\raymob-master\app\build\generated\res\resValues\release
+com.raylib.raymob.app-packageReleaseResources-2 C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.raylib.raymob.app-packageReleaseResources-3 C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.raylib.raymob.app-merged-not-compiled-resources-4 C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\merged-not-compiled-resources\release
+com.raylib.raymob.app-release-5 C:\Users\LoEmber\Desktop\raymob-master\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.raylib.raymob.app-main-6 C:\Users\LoEmber\Desktop\raymob-master\app\src\main\res
+com.raylib.raymob.app-release-7 C:\Users\LoEmber\Desktop\raymob-master\app\src\release\res

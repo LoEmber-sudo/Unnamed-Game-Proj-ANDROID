@@ -1,0 +1,45 @@
+# compiler: R8
+# compiler_version: 8.5.10
+# min_api: 24
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: 4adac71
+# pg_map_hash: SHA-256 4adac71ae04d0d4515ce0ff98701f344873a0f7aeea0aa9460cb85a5aac2ecd8
+android.support.annotation.Keep -> android.support.annotation.Keep:
+# {"id":"sourceFile","fileName":"Keep.java"}
+com.raylib.raymob.DisplayManager -> a.b:
+# {"id":"sourceFile","fileName":"DisplayManager.java"}
+    android.app.NativeActivity activity -> a
+com.raylib.raymob.DisplayManager$$ExternalSyntheticApiModelOutline0 -> a.a:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    1:1:void a.DisplayManager$$ExternalSyntheticApiModelOutline0.m(android.view.WindowManager$LayoutParams):0:0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.raylib.raymob.NativeLoader -> com.raylib.raymob.NativeLoader:
+# {"id":"sourceFile","fileName":"NativeLoader.java"}
+    com.raylib.raymob.DisplayManager displayManager -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La/b;"}
+    com.raylib.raymob.SoftKeyboard softKeyboard -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La/c;"}
+    1:1:void com.raylib.raymob.DisplayManager.<init>(android.content.Context):0:0 -> onCreate
+    1:1:void onCreate(android.os.Bundle):0 -> onCreate
+    2:2:void com.raylib.raymob.DisplayManager.keepScreenOn(boolean):0:0 -> onCreate
+    2:2:void com.raylib.raymob.DisplayManager.<init>(android.content.Context):0 -> onCreate
+    2:2:void onCreate(android.os.Bundle):0 -> onCreate
+    3:3:void com.raylib.raymob.DisplayManager.setImmersiveMode():0:0 -> onCreate
+    3:3:void com.raylib.raymob.DisplayManager.<init>(android.content.Context):0 -> onCreate
+    3:3:void onCreate(android.os.Bundle):0 -> onCreate
+    4:4:void com.raylib.raymob.DisplayManager.renderIntoCutoutArea():0:0 -> onCreate
+    4:4:void com.raylib.raymob.DisplayManager.<init>(android.content.Context):0 -> onCreate
+    4:4:void onCreate(android.os.Bundle):0 -> onCreate
+    5:5:void onCreate(android.os.Bundle):0:0 -> onCreate
+    6:6:void com.raylib.raymob.SoftKeyboard.<init>(android.content.Context):0:0 -> onCreate
+    6:6:void onCreate(android.os.Bundle):0 -> onCreate
+    7:7:void onCreate(android.os.Bundle):0:0 -> onCreate
+    1:1:void com.raylib.raymob.DisplayManager.setImmersiveMode():0:0 -> onWindowFocusChanged
+    1:1:void onWindowFocusChanged(boolean):0 -> onWindowFocusChanged
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
+    2:2:void com.raylib.raymob.DisplayManager.setImmersiveMode():0:0 -> onWindowFocusChanged
+    2:2:void onWindowFocusChanged(boolean):0 -> onWindowFocusChanged
+com.raylib.raymob.SoftKeyboard -> a.c:
+# {"id":"sourceFile","fileName":"SoftKeyboard.java"}

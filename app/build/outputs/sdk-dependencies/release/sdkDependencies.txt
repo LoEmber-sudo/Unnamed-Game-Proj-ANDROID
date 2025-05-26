@@ -1,0 +1,44 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.android.databinding"
+    artifactId: "viewbinding"
+    version: "8.5.0"
+  }
+  digests {
+    sha256: "\201\211\005~9\266l\306\361\312\020\366e\347\037\032\262\316\373\357\231\230\213\341\344x\021\301\370\361\f\202"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-annotations"
+    version: "26.1.0"
+  }
+  digests {
+    sha256: "\231\326\031\232\325\240\232\016^\212I\244\314\b\370\030H=\334\375~\355\352/\231#A-\257\230#\t"
+  }
+  repo_index {
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

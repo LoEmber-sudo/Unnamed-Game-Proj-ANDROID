@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Ko kard",
+        "texture": "kokard.png",
+        "attributes": {
+            "damage": 10,
+            "durability": 100
+        }
+    },
+    {
+        "id": 2,
+        "name": "Rez kard",
+        "texture": "rezkard.bmp",
+        "attributes": {
+            "damage": 20,
+            "durability": 200
+        }
+    }
+]

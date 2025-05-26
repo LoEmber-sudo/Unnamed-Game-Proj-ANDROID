@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.raylib.raymob.test.app-mergeDebugAndroidTestResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\LoEmber\\Desktop\\raymob-master\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endColumns": "66",
+                        "endOffsets": "221"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
